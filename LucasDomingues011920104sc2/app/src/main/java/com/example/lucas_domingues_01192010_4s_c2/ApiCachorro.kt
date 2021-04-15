@@ -1,7 +1,6 @@
 package com.example.lucas_domingues_01192010_4s_c2
 
-interface ApiCachorro {
-
+interface piCachorro {
     @GET("cachorros")
     fun get(): Call<List<Cachorro>>
 
