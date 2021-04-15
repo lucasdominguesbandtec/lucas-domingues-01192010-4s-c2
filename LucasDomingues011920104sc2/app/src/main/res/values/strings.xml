@@ -2,5 +2,7 @@
     <string name="app_name">Lucas-Domingues-01192010-4s-c2</string>
     <string name="id_cao">Informe o identificador do primeiro cachorro</string>
     <string name="id_cao2">Informe o identificador do segundo cachorro</string>
-    <string name="deu_ruim">Deu ruim... Nenhum cachorro encontrado com os ids X e Y</string>
+    <string name="deu_ruim">Deu ruim... Nenhum cachorro encontrado com os ids informados</string>
+    <string name="nao_encontrado">Não encontrado</string>
+
 </resources>
